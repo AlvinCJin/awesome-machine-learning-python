@@ -13,6 +13,7 @@
 * [Deep Learning Lecture - University of Oxford](http://www.computervisiontalks.com/tag/deep-learning-course/)
 * [Deep Learning Tutorial](http://videolectures.net/kdd2014_salakhutdinov_deep_learning)
 * [Python Programming for the Humanities](http://fbkarsdorp.github.io/python-course/) - Course for Python programming for the Humanities, assuming no prior knowledge. Heavy focus on text processing / NLP.
+* [Oxford: Machine Learning Course](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning)
 
 ### Pyplot
 * [Pyplot tutorial](http://matplotlib.org/users/pyplot_tutorial.html)
