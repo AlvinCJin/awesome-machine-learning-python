@@ -14,6 +14,7 @@
 * [Deep Learning Tutorial](http://videolectures.net/kdd2014_salakhutdinov_deep_learning)
 * [Python Programming for the Humanities](http://fbkarsdorp.github.io/python-course/) - Course for Python programming for the Humanities, assuming no prior knowledge. Heavy focus on text processing / NLP.
 * [Oxford: Machine Learning Course](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning)
+* [Bayesian and Modern Statistics](https://github.com/jwmi/Bayesian-Statistics)
 
 ### Pyplot
 * [Pyplot tutorial](http://matplotlib.org/users/pyplot_tutorial.html)
